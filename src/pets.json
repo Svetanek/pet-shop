@@ -1,6 +1,71 @@
 [
   {
     "id": 0,
+    "name": "Nichole",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/06/Screen-Shot-2019-06-17-at-14.34.23.png",
+    "age": 1,
+    "breed": "Basset Spaniel Cross",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 1,
+    "name": "Buddy",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/06/Screen-Shot-2019-06-20-at-11.14.47.png",
+    "age": 2,
+    "breed": "Bichon Frize Cross",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 2,
+    "name": "Ludmila",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/05/Screen-Shot-2019-05-16-at-12.22.19.png",
+    "age": 2,
+    "breed": "Lurcher Cross",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 3,
+    "name": "Bingo",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/04/Screen-Shot-2019-04-26-at-11.12.23.png",
+    "age": 10,
+    "breed": "Terrier Cross",
+    "location": "Windsor, Montana"
+  },
+
+  {
+    "id": 4,
+    "name": "Ophelia",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/06/Screen-Shot-2019-06-20-at-11.34.06.png",
+    "age": 8,
+    "breed": "Collie Cross",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Freddie",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/06/Screen-Shot-2019-06-17-at-14.34.23.png",
+    "age": 1,
+    "breed": "Basset Spaniel Cross",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Johnny",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/05/Screen-Shot-2019-05-30-at-13.29.14-1.png",
+    "age": 4,
+    "breed": "Rotveiler",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Chance",
+    "picture": "https://www.dspca.ie/wp-content/uploads/2019/06/Screen-Shot-2019-06-21-at-16.09.12.png",
+    "age": 3,
+    "breed": "Pug Jack Russel Cross",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
     "name": "Frieda",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
@@ -8,15 +73,15 @@
     "location": "Lisco, Alabama"
   },
   {
-    "id": 1,
+    "id": 9,
     "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/golden-retriever.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
+    "breed": "Golden Retriever",
     "location": "Tooleville, West Virginia"
   },
   {
-    "id": 2,
+    "id": 10,
     "name": "Collins",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
@@ -24,83 +89,20 @@
     "location": "Freeburn, Idaho"
   },
   {
-    "id": 3,
+    "id": 11,
     "name": "Melissa",
     "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Boxer",
     "location": "Camas, Pennsylvania"
   },
-  {
-    "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
-  },
-  {
-    "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
-  },
-  {
-    "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
-  },
-  {
-    "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
-  },
-  {
-    "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
-  },
-  {
-    "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
-  },
-  {
-    "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
-  },
-  {
-    "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
-  },
+
   {
     "id": 12,
-    "name": "Stevenson",
+    "name": "Bindi",
     "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
+    "age": 0,
+    "breed": "Staffordshire Bull Terrier Cross",
     "location": "Kingstowne, Nevada"
   },
   {
@@ -114,17 +116,17 @@
   {
     "id": 14,
     "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/boxer.jpeg",
     "age": 2,
     "breed": "Golden Retriever",
     "location": "Broadlands, Oregon"
   },
   {
     "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "name": "Frieda",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Lisco, Alabama"
   }
 ]
